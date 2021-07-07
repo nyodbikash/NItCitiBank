@@ -6,5 +6,8 @@ public class Utillity {
 	public Date getDate() {
 		return new Date();
 	}
+	public void m1() {
+		System.out.println("Utillity class m1()");
+	}
 
 }
