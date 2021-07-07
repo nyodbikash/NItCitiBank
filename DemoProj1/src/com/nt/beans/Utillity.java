@@ -8,6 +8,7 @@ public class Utillity {
 	}
 	public void m1() {
 		System.out.println("Utillity class m1():1234");
+		System.out.println("abc123");
 	}
 
 }
