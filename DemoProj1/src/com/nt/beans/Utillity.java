@@ -7,7 +7,7 @@ public class Utillity {
 		return new Date();
 	}
 	public void m1() {
-		System.out.println("Utillity class m1().....abcd");
+		System.out.println("Utillity class m1():1234");
 	}
 
 }
